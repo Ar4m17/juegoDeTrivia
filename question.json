@@ -5,3 +5,10 @@
   "answer": 0,
   "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
 }
+{
+  "category": "Deportes",
+  "question": "¿Cual es el equipo con mas Champions Leagues?",
+  "options": ["El Farcelona", "El inigualable Real Madrid", "PSG (Messi y 10 mas)"],
+  "answer": 1,
+  "explanation": "Actualmente el Real Madrid cuenta con 21 titulos de Champions, superando por mucho a los demas equipos que intentanm pero no pueden alcansarlo."
+}
