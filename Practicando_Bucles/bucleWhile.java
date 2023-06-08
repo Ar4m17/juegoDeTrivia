@@ -16,7 +16,7 @@ public class bucleWhile {
          */
                 System.out.print(i);
                 if (i<10){
-                    System.out.print(" ;");
+                    System.out.print("; ");
                 }
         // el creciente o decreciente (ej:i++) siempre va al ultimo pero dentro del while osea de las llaves
                 i++;
@@ -34,7 +34,7 @@ public class bucleWhile {
         while (b>=nuemroDecrecienteFinal){
             System.out.print(b );
             if (b>nuemroDecrecienteFinal){
-                System.out.print(" ;");
+                System.out.print("; ");
             }
             b--;
             // la manera de crecer o decrecer el numero tambien puede ser de 2 en 2 o 3en 3 ETC.
