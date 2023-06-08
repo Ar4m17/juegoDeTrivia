@@ -17,8 +17,9 @@ public class bucleFor {
         int inicializacion = numero.nextInt();
         System.out.println("Ingrese el numero de la condicion ( el numero hasta donde llegara i): ");
         int limitador = numero.nextInt();
-
-        for (int i=inicializacion ; i >= limitador ; i--){
+        System.out.println("Ingresar de cuanto en cuanto va a decrecer: ");
+        int cuanto = numero.nextInt();
+        for (int i=inicializacion ; i >= limitador ; i=i-cuanto){
             System.out.print(i);
             if (i>limitador){
                 System.out.print("; ");
